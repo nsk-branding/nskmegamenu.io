@@ -1,2 +1,3 @@
 # megaMenu.io
- A mega menu to display on my web
+ A menu to display on NSK-UTHER profile
+ https://nsk-branding.github.io/nskmegamenu.io/
