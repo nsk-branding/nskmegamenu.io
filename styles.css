@@ -24,9 +24,14 @@ nav .wrapper {
     margin: auto;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 40px;
 }
 
+.wrapper .logo {
+    position: absolute;
+    left: 30px;
+}
 .wrapper .logo a {
     color: #f64020;
     font-size: 30px;
