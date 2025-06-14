@@ -24,20 +24,12 @@ nav .wrapper {
     margin: auto;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 40px;
 }
 
-.wrapper .logo {
-    position: absolute;
-    left: 30px;
-}
-.wrapper .logo a {
-    color: #f64020;
-    font-size: 30px;
-    font-weight: 600;
-    text-decoration: none;
-}
+
+
 
 .wrapper .nav-links {
     display: inline-flex;
